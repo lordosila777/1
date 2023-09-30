@@ -1,0 +1,72 @@
+﻿@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('./robotothincc96b-479.arb-2ab.arb.woff2') format('woff2'), url('./robotothin4cc5e-c2c.arb-528.arb.woff') format('woff'), url('robotothine1931.hxd/index.html') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('./robotothinitalic68019-120.arb-a9a.arb.woff2') format('woff2'), url('./robotothinitalic378af-a60.arb-aeb.arb.woff') format('woff'), url('robotothinitalicb36a8.hxd/index.html') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('./robotolightd3654-1fa.arb-824.arb.woff2') format('woff2'), url('./robotolightf070c-a45.arb-0df.arb.woff') format('woff'), url('robotolight657fa.hxd/index.html') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('./robotolightitalic481dd-350.arb-f8d.arb.woff2') format('woff2'), url('./robotolightitalic6c233-f3a.arb-9f3.arb.woff') format('woff'), url('robotolightitalice7546.hxd/index.html') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('./roboto59134-9da.arb-bbe.arb.woff2') format('woff2'), url('./robotoedb5b-437.arb-35c.arb.woff') format('woff'), url('roboto3e8bb.hxd/index.html') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('./robotoitalicd9cd0-12e.arb-de3.arb.woff2') format('woff2'), url('./robotoitalice637c-670.arb-cfe.arb.woff') format('woff'), url('robotoitalic220ac.hxd/index.html') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('./robotomedium58b1d-caa.arb-8e3.arb.woff2') format('woff2'), url('./robotomedium6921a-233.arb-47b.arb.woff') format('woff'), url('robotomedium6073e.hxd/index.html') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('./robotomediumitalicb63f3-c9f.arb-c7b.arb.woff2') format('woff2'), url('./robotomediumitalic687b1-608.arb-a23.arb.woff') format('woff'), url('robotomediumitalic8d815.hxd/index.html') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('./robotoboldb9c7d-5ed.arb-6cc.arb.woff2') format('woff2'), url('./robotobold5bd1d-70d.arb-62e.arb.woff') format('woff'), url('robotobolde32db.hxd/index.html') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('./robotobolditalic2ced6-2b7.arb-249.arb.woff2') format('woff2'), url('./robotobolditalic3944b-fb8.arb-be2.arb.woff') format('woff'), url('robotobolditalic4105b.hxd/index.html') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('./robotoblackaa282-837.arb-bb2.arb.woff2') format('woff2'), url('./robotoblack7bd76-aa9.arb-552.arb.woff') format('woff'), url('robotoblacke1500.hxd/index.html') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('./robotoblackitalic19e91-302.arb-7ca.arb.woff2') format('woff2'), url('./robotoblackitalic96a53-e5f.arb-d46.arb.woff') format('woff'), url('robotoblackitalicb141b.hxd/index.html') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
